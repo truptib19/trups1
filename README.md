@@ -1,2 +1,5 @@
 # trups1
-test repository
+
+#test repository
+
+Learning Github is fun!
